@@ -7,12 +7,14 @@
     background-color: #f4f4f4;
 }
 .team-pic.employee1{
-    background-image: url('/img/employee1.jpg');
+    background-image: url('/img/alexis.png');
     background-size: cover;
+    background-position: center;
 }
 .team-pic.employee2{
-    background-image: url('/img/employee2.jpg');
+    background-image: url('/img/klara.jpg');
     background-size: cover;
+    background-position: center;
 }
 .team-members{
     margin-bottom: 60px;
